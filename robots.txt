@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--feitu-f51h28nb87o.com/sitemap.xml

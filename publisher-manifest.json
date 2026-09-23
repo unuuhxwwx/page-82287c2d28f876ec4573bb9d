@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3acad2c24f23a8cccafadc44",
+  "owner": "unuuhxwwx",
+  "repo": "page-82287c2d28f876ec4573bb9d",
+  "title": "shopee",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "82287c2d28f876ec4573bb9d",
+      "a": "shopee",
+      "b": "2027最新官网",
+      "entity": "shopee",
+      "brand": "shopee",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ded28ffda3f4e7fd7dc4dec28ea9918c70b73bce806cc5623c8eb52404e076f1",
+      "content": {
+        "primary_entity": "shopee",
+        "keyword1": "shopee",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统挑选对应客户端，按文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "按设备量选套餐，按月或按年灵活开通，随时调整订阅。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助快速找到适合的加速方案。",
+          "AI_FEATURES_INTRO": "结合设备数量、流量需求与订阅周期，三分钟完成套餐匹配。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "手机、电脑或路由器，按设备系统选择对应客户端并导入订阅。",
+          "AI_FEATURE_TEXT_2": "轻度使用选基础版，多设备高流量选旗舰版或团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，按年付比按月付节省两个月费用。",
+          "AI_FEATURE_TITLE_1": "按设备选客户端",
+          "AI_FEATURE_TITLE_2": "按用量选套餐",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_GUIDE_INTRO": "三步完成：先明确设备数量与流量，再对照套餐，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "提供基础版、旗舰版与团队版三档套餐，覆盖从个人到团队的多设备加速需求，支持月付与年付，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐，多端加速",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版支持五台设备与专线加速，团队版满足二十台设备与定制路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "数清常用设备数量与每月流量，判断适合的套餐档位。",
+          "AI_STEP_TEXT_2": "对照套餐的设备上限、流量额度与线路类型，确认适配要求。",
+          "AI_STEP_TEXT_3": "在对应客户端中新建订阅并导入地址，按文档完成配置与连接。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "多端加速，按需选套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版能同时用几台设备？",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版为5台，团队版最多20台。若需增加并发设备，可升级到更高档位。",
+          "AI_FAQ_QUESTION_2": "月流量用超了怎么办？",
+          "AI_FAQ_ANSWER_2": "每档套餐都设定了月度流量上限，用完后当月无法继续使用。可在下个周期选择更高流量档位，或直接升级套餐。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "基础版按月¥15、按年¥150；旗舰版按月¥35、按年¥350；团队版按月¥85、按年¥850。按年付相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版含IPLC专线游戏加速优化，适合对延迟敏感的联机游戏与实时协作。团队版还提供VIP高带宽节点，适合大流量并发。",
+          "AI_FAQ_QUESTION_5": "订阅地址怎么导入客户端？",
+          "AI_FAQ_ANSWER_5": "完成订阅后可获取订阅地址，在对应客户端中粘贴并更新节点即可。具体入口因客户端而异，参考各客户端的配置文档操作。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--feitu-f51h28nb87o.com",
+    "host": "xn--feitu-f51h28nb87o.com"
+  },
+  "file_hashes": {
+    "index.html": "7b17a2c129f8622559abd55ee5005215cca317e0bc12c79fbe069ad7f2dce6f8",
+    "sitemap.xml": "5b4019497083653073aee3ce2330393260bdbbbe7a38628b70587c910e10578b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cb992b595c16b6c1255648b75bb3d52335384a1590eba42849d51f0d3ea57bc2",
+    "robots.txt": "4c07611ce3813f3d0103b7d12ed9387b6512c12f693657644d713cdffdbeee88",
+    "9f0a477b283c07255cc709a4e084a6e0.txt": "8771f2dfac5298a4f4d2099695e578faee4234abdea4f375946597f780b69b46"
+  },
+  "revision": "6bd3902daa8313994cd9a01be50a5b7dcf9806daefca50c0bdee740d9a86f983"
+}
